@@ -1,19 +1,52 @@
-# Hi, I'm Raza
+# Raza
 
-I build practical SaaS products, education platforms, dashboards, and commerce tools.
+I build practical web products for education, school operations, learning platforms, typing tools, and small business workflows.
 
-## Focus
+## What I Work On
 
-- School ERP and academic management systems
-- WhatsApp-first storefront and ecommerce workflows
-- AI-assisted product development
-- Clean dashboards for operations, reporting, and daily work
+- School ERP and institution management systems
+- Learning platforms for kids, teachers, and madrasas
+- Live quiz and classroom engagement tools
+- Typing practice and multilingual learning games
+- Donation, donor, and account management dashboards
 
-## Featured Work
+## Core Skills
 
-- [Qurtuba ERP](https://github.com/razalearn/qurtubaerp) - School ERP and management system for academic operations
-- [New Store](https://github.com/razalearn/new-store) - WhatsApp-focused storefront platform for small businesses
+- Frontend: React, TypeScript, Vite, Tailwind CSS, shadcn/ui
+- Backend and data: Supabase, Laravel, SQL schemas, API design
+- Product: dashboards, role-based flows, admin portals, education workflows
+- Delivery: documentation, deployment guides, verification checks, iterative MVP building
 
-## Current Direction
+## Selected Projects
 
-I am refining a smaller set of polished projects and keeping older experiments private or archived so the profile stays focused.
+### Qurtuba Portal
+
+A school and institution management platform with public website pages, student and teacher dashboards, exams, library workflows, store management, CMS controls, and super-admin tooling.
+
+### Accounts 3.0
+
+A multi-tenant donation, donor, and accounting platform for managing income, expenses, donors, beneficiaries, wallets, audit history, and reports.
+
+### QuizArena Live
+
+A live quiz event platform with host controls, team screens, display views, scoreboards, and admin workflows.
+
+### Shikshak Sathi
+
+A teacher-support portal with MDM calculation, salary tools, updates, service cards, and admin-managed content.
+
+### SwiftType Studio
+
+A multilingual typing practice platform with games, achievements, language management, leaderboards, and admin controls.
+
+### Madrasa Learning Hub
+
+A full-stack Islamic learning platform with courses, recorded lessons, live classes, one-to-one classes, teacher/admin dashboards, and a Laravel backend API.
+
+### Learn Bright Little Minds
+
+A kids learning platform for language lessons, mathematics, Islamic studies, general knowledge, tracing activities, achievements, and admin-managed content.
+
+## Current Focus
+
+I am refining a smaller set of serious projects, improving documentation, and turning prototypes into maintainable products with clear setup, deployment, and contributor guides.
